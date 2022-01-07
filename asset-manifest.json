@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/guys-portfolio/static/css/main.24ca2cb4.css",
+    "main.js": "/guys-portfolio/static/js/main.56b23895.js",
+    "static/media/hrtzl.mp4": "/guys-portfolio/static/media/hrtzl.6012e107264c7a63570e.mp4",
+    "static/media/hero.gif": "/guys-portfolio/static/media/hero.4b57740e903dd89c5f81.gif",
+    "static/media/slimwav.gif": "/guys-portfolio/static/media/slimwav.f6649ce4494adb506d9f.gif",
+    "static/media/villain.gif": "/guys-portfolio/static/media/villain.3a968ac5f573335886a7.gif",
+    "static/media/ministers.gif": "/guys-portfolio/static/media/ministers.128b15f42d928b0c6fcb.gif",
+    "static/media/simp.gif": "/guys-portfolio/static/media/simp.3cca63b99aa0f26d78f4.gif",
+    "static/media/blue_p_run.gif": "/guys-portfolio/static/media/blue_p_run.22b6e7a0ddfada155bb0.gif",
+    "static/media/simp_tall.gif": "/guys-portfolio/static/media/simp_tall.d02bd7b494b13b29e27d.gif",
+    "static/media/blue_hood.gif": "/guys-portfolio/static/media/blue_hood.e41b9a63ed57bebcbe7c.gif",
+    "static/media/purple_hood.gif": "/guys-portfolio/static/media/purple_hood.fbe0a5d7b4744c246937.gif",
+    "static/media/godot.png": "/guys-portfolio/static/media/godot.ca94ac9ae821a240500f.png",
+    "static/media/unity.png": "/guys-portfolio/static/media/unity.dd98609d5bac525c0b16.png",
+    "static/media/robot.gif": "/guys-portfolio/static/media/robot.645fed11ee2bceb4f667.gif",
+    "index.html": "/guys-portfolio/index.html",
+    "main.24ca2cb4.css.map": "/guys-portfolio/static/css/main.24ca2cb4.css.map",
+    "main.56b23895.js.map": "/guys-portfolio/static/js/main.56b23895.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24ca2cb4.css",
+    "static/js/main.56b23895.js"
+  ]
+}
